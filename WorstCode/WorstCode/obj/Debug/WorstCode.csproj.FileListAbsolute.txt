@@ -1,0 +1,7 @@
+C:\Users\lucas\source\repos\WorstCode\WorstCode\bin\Debug\WorstCode.exe.config
+C:\Users\lucas\source\repos\WorstCode\WorstCode\bin\Debug\WorstCode.exe
+C:\Users\lucas\source\repos\WorstCode\WorstCode\bin\Debug\WorstCode.pdb
+C:\Users\lucas\source\repos\WorstCode\WorstCode\obj\Debug\WorstCode.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\WorstCode\WorstCode\obj\Debug\WorstCode.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\WorstCode\WorstCode\obj\Debug\WorstCode.exe
+C:\Users\lucas\source\repos\WorstCode\WorstCode\obj\Debug\WorstCode.pdb
